@@ -32,3 +32,4 @@ task(:sample_contacts => :environment) do
   x.date_of_birth = "May 15, 1928"
   x.save
 end
+
